@@ -13,6 +13,20 @@
 		03CAEC2124BCEE9900257B0F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 03CAEC1F24BCEE9900257B0F /* Main.storyboard */; };
 		03CAEC2324BCEE9B00257B0F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 03CAEC2224BCEE9B00257B0F /* Assets.xcassets */; };
 		03CAEC2624BCEE9B00257B0F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 03CAEC2424BCEE9B00257B0F /* LaunchScreen.storyboard */; };
+		03CAEC4724BCEFD100257B0F /* flagItaly.png in Resources */ = {isa = PBXBuildFile; fileRef = 03CAEC2F24BCEFCE00257B0F /* flagItaly.png */; };
+		03CAEC4B24BCEFD100257B0F /* flagRussia.png in Resources */ = {isa = PBXBuildFile; fileRef = 03CAEC3324BCEFCF00257B0F /* flagRussia.png */; };
+		03CAEC4C24BCEFD100257B0F /* flagSpain.png in Resources */ = {isa = PBXBuildFile; fileRef = 03CAEC3424BCEFCF00257B0F /* flagSpain.png */; };
+		03CAEC4E24BCEFD100257B0F /* flagUK.png in Resources */ = {isa = PBXBuildFile; fileRef = 03CAEC3624BCEFCF00257B0F /* flagUK.png */; };
+		03CAEC5024BCEFD100257B0F /* flagMonaco.png in Resources */ = {isa = PBXBuildFile; fileRef = 03CAEC3824BCEFCF00257B0F /* flagMonaco.png */; };
+		03CAEC5224BCEFD100257B0F /* flagEstonia.png in Resources */ = {isa = PBXBuildFile; fileRef = 03CAEC3A24BCEFCF00257B0F /* flagEstonia.png */; };
+		03CAEC5524BCEFD100257B0F /* flagPoland.png in Resources */ = {isa = PBXBuildFile; fileRef = 03CAEC3D24BCEFD000257B0F /* flagPoland.png */; };
+		03CAEC5824BCEFD100257B0F /* flagUS.png in Resources */ = {isa = PBXBuildFile; fileRef = 03CAEC4024BCEFD000257B0F /* flagUS.png */; };
+		03CAEC5924BCEFD100257B0F /* flagIreland.png in Resources */ = {isa = PBXBuildFile; fileRef = 03CAEC4124BCEFD000257B0F /* flagIreland.png */; };
+		03CAEC5B24BCEFD100257B0F /* flagFrance.png in Resources */ = {isa = PBXBuildFile; fileRef = 03CAEC4324BCEFD000257B0F /* flagFrance.png */; };
+		03CAEC5C24BCEFD100257B0F /* flagGermany.png in Resources */ = {isa = PBXBuildFile; fileRef = 03CAEC4424BCEFD100257B0F /* flagGermany.png */; };
+		03CAEC5E24BCEFD100257B0F /* flagNigeria.png in Resources */ = {isa = PBXBuildFile; fileRef = 03CAEC4624BCEFD100257B0F /* flagNigeria.png */; };
+		03CAEC6024BCF62D00257B0F /* FlagCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03CAEC5F24BCF62D00257B0F /* FlagCell.swift */; };
+		03CAEC6224BCF8C900257B0F /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03CAEC6124BCF8C900257B0F /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +38,20 @@
 		03CAEC2224BCEE9B00257B0F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		03CAEC2524BCEE9B00257B0F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		03CAEC2724BCEE9B00257B0F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		03CAEC2F24BCEFCE00257B0F /* flagItaly.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = flagItaly.png; sourceTree = "<group>"; };
+		03CAEC3324BCEFCF00257B0F /* flagRussia.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = flagRussia.png; sourceTree = "<group>"; };
+		03CAEC3424BCEFCF00257B0F /* flagSpain.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = flagSpain.png; sourceTree = "<group>"; };
+		03CAEC3624BCEFCF00257B0F /* flagUK.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = flagUK.png; sourceTree = "<group>"; };
+		03CAEC3824BCEFCF00257B0F /* flagMonaco.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = flagMonaco.png; sourceTree = "<group>"; };
+		03CAEC3A24BCEFCF00257B0F /* flagEstonia.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = flagEstonia.png; sourceTree = "<group>"; };
+		03CAEC3D24BCEFD000257B0F /* flagPoland.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = flagPoland.png; sourceTree = "<group>"; };
+		03CAEC4024BCEFD000257B0F /* flagUS.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = flagUS.png; sourceTree = "<group>"; };
+		03CAEC4124BCEFD000257B0F /* flagIreland.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = flagIreland.png; sourceTree = "<group>"; };
+		03CAEC4324BCEFD000257B0F /* flagFrance.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = flagFrance.png; sourceTree = "<group>"; };
+		03CAEC4424BCEFD100257B0F /* flagGermany.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = flagGermany.png; sourceTree = "<group>"; };
+		03CAEC4624BCEFD100257B0F /* flagNigeria.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = flagNigeria.png; sourceTree = "<group>"; };
+		03CAEC5F24BCF62D00257B0F /* FlagCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlagCell.swift; sourceTree = "<group>"; };
+		03CAEC6124BCF8C900257B0F /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,12 +87,34 @@
 				03CAEC1924BCEE9900257B0F /* AppDelegate.swift */,
 				03CAEC1B24BCEE9900257B0F /* SceneDelegate.swift */,
 				03CAEC1D24BCEE9900257B0F /* ViewController.swift */,
+				03CAEC6124BCF8C900257B0F /* DetailViewController.swift */,
+				03CAEC5F24BCF62D00257B0F /* FlagCell.swift */,
 				03CAEC1F24BCEE9900257B0F /* Main.storyboard */,
 				03CAEC2224BCEE9B00257B0F /* Assets.xcassets */,
 				03CAEC2424BCEE9B00257B0F /* LaunchScreen.storyboard */,
 				03CAEC2724BCEE9B00257B0F /* Info.plist */,
+				03CAEC2E24BCEF9E00257B0F /* Flags */,
 			);
 			path = Day23Challenge;
+			sourceTree = "<group>";
+		};
+		03CAEC2E24BCEF9E00257B0F /* Flags */ = {
+			isa = PBXGroup;
+			children = (
+				03CAEC3A24BCEFCF00257B0F /* flagEstonia.png */,
+				03CAEC4324BCEFD000257B0F /* flagFrance.png */,
+				03CAEC4424BCEFD100257B0F /* flagGermany.png */,
+				03CAEC4124BCEFD000257B0F /* flagIreland.png */,
+				03CAEC2F24BCEFCE00257B0F /* flagItaly.png */,
+				03CAEC3824BCEFCF00257B0F /* flagMonaco.png */,
+				03CAEC4624BCEFD100257B0F /* flagNigeria.png */,
+				03CAEC3D24BCEFD000257B0F /* flagPoland.png */,
+				03CAEC3324BCEFCF00257B0F /* flagRussia.png */,
+				03CAEC3424BCEFCF00257B0F /* flagSpain.png */,
+				03CAEC3624BCEFCF00257B0F /* flagUK.png */,
+				03CAEC4024BCEFD000257B0F /* flagUS.png */,
+			);
+			path = Flags;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,9 +175,21 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				03CAEC5E24BCEFD100257B0F /* flagNigeria.png in Resources */,
 				03CAEC2624BCEE9B00257B0F /* LaunchScreen.storyboard in Resources */,
+				03CAEC5B24BCEFD100257B0F /* flagFrance.png in Resources */,
+				03CAEC4B24BCEFD100257B0F /* flagRussia.png in Resources */,
+				03CAEC5524BCEFD100257B0F /* flagPoland.png in Resources */,
+				03CAEC5C24BCEFD100257B0F /* flagGermany.png in Resources */,
+				03CAEC5224BCEFD100257B0F /* flagEstonia.png in Resources */,
+				03CAEC4724BCEFD100257B0F /* flagItaly.png in Resources */,
 				03CAEC2324BCEE9B00257B0F /* Assets.xcassets in Resources */,
+				03CAEC4C24BCEFD100257B0F /* flagSpain.png in Resources */,
+				03CAEC4E24BCEFD100257B0F /* flagUK.png in Resources */,
+				03CAEC5824BCEFD100257B0F /* flagUS.png in Resources */,
+				03CAEC5924BCEFD100257B0F /* flagIreland.png in Resources */,
 				03CAEC2124BCEE9900257B0F /* Main.storyboard in Resources */,
+				03CAEC5024BCEFD100257B0F /* flagMonaco.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -140,7 +202,9 @@
 			files = (
 				03CAEC1E24BCEE9900257B0F /* ViewController.swift in Sources */,
 				03CAEC1A24BCEE9900257B0F /* AppDelegate.swift in Sources */,
+				03CAEC6224BCF8C900257B0F /* DetailViewController.swift in Sources */,
 				03CAEC1C24BCEE9900257B0F /* SceneDelegate.swift in Sources */,
+				03CAEC6024BCF62D00257B0F /* FlagCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
